@@ -20,3 +20,4 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 - Implementado a classe Smartphone com as propiedades privadas declaradas como protected caso seja util no futuro para as classes filhas.
+- Implementado a classe Nokia trocando o modelo adicionando o nome Nokia antes do modelo
